@@ -1,4 +1,4 @@
-##I'm Lijan Ahmmed
+# Hi, I'm Lijan Ahmmed🤵‍♂️
 ## Full-stack web developer
 
 
