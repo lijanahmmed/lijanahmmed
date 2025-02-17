@@ -9,6 +9,8 @@
 
 🔭 I’m currently working on Full-stack development<br>🌱 I’m currently learning MERN stack development<br>👀 I’m interested in Programming<br>👯 I’m looking to collaborate on Open-source projects<br> 📩 Email: lijanahmmed@gmail.com<br><br>  Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lijanahmmed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lijanahmmed.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lijanahmmed) 
