@@ -43,6 +43,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lijanahmmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
