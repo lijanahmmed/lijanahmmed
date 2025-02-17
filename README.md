@@ -7,6 +7,7 @@
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1>
 
+## ✒️ About Me
 🔭 I’m currently working on Full-stack development<br>🌱 I’m currently learning MERN stack development<br>👀 I’m interested in Programming<br>👯 I’m looking to collaborate on Open-source projects<br> 📩 Email: lijanahmmed@gmail.com<br><br>  Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
