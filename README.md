@@ -1,6 +1,4 @@
 # Hi, I'm Lijan Ahmmed🤵‍♂️
-## Full-stack web developer
-
 
 🔭 I’m currently working on Full-stack development<br>🌱 I’m currently learning MERN stack development<br>👀 I’m interested in Programming<br>👯 I’m looking to collaborate on Open-source projects<br> 📩 Email: lijanahmmed@gmail.com<br><br>  Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨<br>
 
