@@ -14,17 +14,19 @@
 
 
 ## 🌐 Connect with me:
-<a href="https://www.linkedin.com/in/lijanahmmed" target="_blank">
+
+<p align="left">
+ <a href="https://www.linkedin.com/in/lijanahmmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lijanahmmed="30" width="40" />
-  </a>
-  <a href="https://fb.com/lijanahmmed.9" target="_blank">
+  </a> 
+ <a href="https://fb.com/lijanahmmed.9" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lijanahmmed" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/lijanahmmed" target="_blank">
+ <a href="https://instagram.com/lijanahmmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lijanahmmed" height="30" width="40" />
   </a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lijanahmmed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lijanahmmed.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lijanahmmed) 
-<br>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
