@@ -51,9 +51,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lijanahmmed&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lijanahmmed&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lijanahmmed&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lijanahmmed&show_icons=true&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijanahmmed&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
+</div>
+
+<a href=#><img src="contributions.svg"></a>
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_lijanahmmed/count.svg" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
