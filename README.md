@@ -12,6 +12,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+# 📊 GitHub Stats:
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lijanahmmed&show_icons=true&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijanahmmed&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
+</div>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_lijanahmmed/count.svg" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <h2>
   <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Programming Languages and Tools:
@@ -45,19 +59,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 GitHub Stats:
-
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lijanahmmed&show_icons=true&theme=algolia"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijanahmmed&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
-</div>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_lijanahmmed/count.svg" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect with me:
 
