@@ -62,6 +62,9 @@
 
 ## 🌐 Connect with me:
 
+***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/lijanahmmed.9)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/company/lijanahmmed/mycompany/) </p>***
+<br>
+
 <p align="left">
  <a href="https://www.linkedin.com/in/lijanahmmed" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lijanahmmed" height="30" width="40" />
