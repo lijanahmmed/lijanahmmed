@@ -19,10 +19,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijanahmmed&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
 </div>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_lijanahmmed/count.svg" />
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
